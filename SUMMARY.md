@@ -23,10 +23,10 @@
 
 ## Administration
 
-* [Logiciels](administration/logiciels/README.md)
-  * [Microsoft](administration/logiciels/microsoft/README.md)
-    * [Exchange](administration/logiciels/microsoft/exchange/README.md)
-      * [Création d'une boite mail partagée](administration/logiciels/microsoft/exchange/creation-dune-boite-mail-partagee.md)
+* [Logiciels](administration/logiciel/README.md)
+  * [Microsoft](administration/logiciel/microsoft/README.md)
+    * [Exchange](administration/logiciel/microsoft/exchange/README.md)
+      * [Création d'une boite mail partagée](administration/logiciel/microsoft/exchange/creation-dune-boite-mail-partagee.md)
 
 ## Présentations
 

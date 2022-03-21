@@ -25,17 +25,3 @@ Si votre expéditeur ne fait pas partie des correspondants avec qui vous avez l�
 En tant qu’utilisateur, vous disposez d’un espace personnel depuis lequel vous pouvez gérer vos emails stoppés et vos expéditeurs. Vous recevez également quotidiennement par email un rapport d’emails stoppés pour ne passer à côté d'aucun message important tout au long de la journée.
 
 Rassurez-vous, Mailinblack est une solution facile à utiliser et à prendre en main. Découvrez-la à travers cette présentation !
-
-****
-
-****
-
-****
-
-
-
-#### Tel : 04.67.79.03.58
-
-Mail : [contact.entreprise@solutek.fr](mailto:contact.entreprise@solutek.fr)
-
-Site internet : [http://www.solutek.fr](http://www.solutek.fr)
