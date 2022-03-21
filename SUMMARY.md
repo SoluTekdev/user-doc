@@ -17,7 +17,13 @@
 * [Cloud](utilisation/cloud/README.md)
   * [Exchange Online](utilisation/cloud/exchange-online/README.md)
     * [Accéder à une boite partagée](utilisation/cloud/exchange-online/acceder-a-une-boite-partagee.md)
-  * [Mail In Black](utilisation/cloud/mail-in-black.md)
+  * [Mail In Black](utilisation/cloud/mail-in-black/README.md)
+    * [Le principe de Mailinblack](utilisation/cloud/mail-in-black/le-principe-de-mailinblack.md)
+    * [La demande d'authentification](utilisation/cloud/mail-in-black/la-demande-dauthentification/README.md)
+      * [Étape 1](utilisation/cloud/mail-in-black/la-demande-dauthentification/etape-1.md)
+      * [Étape 2](utilisation/cloud/mail-in-black/la-demande-dauthentification/etape-2.md)
+      * [Étape 3](utilisation/cloud/mail-in-black/la-demande-dauthentification/etape-3.md)
+    * [Le rapport d’emails stoppés](utilisation/cloud/mail-in-black/le-rapport-demails-stoppes.md)
 
 ## Administration
 
