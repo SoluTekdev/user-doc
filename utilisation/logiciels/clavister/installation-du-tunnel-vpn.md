@@ -1,6 +1,6 @@
 # Installation du VPN
 
-## **INSTALLATION**
+## **Accès aux ressources**
 
 ### Internet Explorer
 
@@ -49,7 +49,7 @@
 
 ![](../../../.gitbook/assets/12.jpeg)
 
-## **TELECHARGEMENT DES FICHIERS**
+## **Téléchargement des fichiers**
 
 * Saisissez l’identifiant et mot de passe qui vous ont été communiqués par mail.
 
@@ -68,6 +68,6 @@
 
 En effet, ce raccourci/fichier de configuration, permet de remplir automatiquement les différentes informations nécessaires afin de vous connecter au réseau de votre entreprise (nom d’utilisateur, adresse IP et port).
 
-## **INSTALLATION ET**&#x20;
+## **Installation**
 
 * Exécutez le fichier d’installation téléchargé nommé **"Setup\_SSLVPN.exe"** afin d’installer le logiciel VPN
