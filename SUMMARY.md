@@ -17,17 +17,23 @@
 * [Cloud](utilisation/cloud/README.md)
   * [Exchange Online](utilisation/cloud/exchange-online/README.md)
     * [Accéder à une boite partagée](utilisation/cloud/exchange-online/acceder-a-une-boite-partagee.md)
-  * [Mail In Black](utilisation/cloud/mail-in-black/README.md)
-    * [Le principe de Mailinblack](utilisation/cloud/mail-in-black/le-principe-de-mailinblack.md)
-    * [La demande d'authentification](utilisation/cloud/mail-in-black/la-demande-dauthentification/README.md)
-      * [Étape 1](utilisation/cloud/mail-in-black/la-demande-dauthentification/etape-1.md)
-      * [Étape 2](utilisation/cloud/mail-in-black/la-demande-dauthentification/etape-2.md)
-      * [Étape 3](utilisation/cloud/mail-in-black/la-demande-dauthentification/etape-3.md)
-    * [Le rapport d’emails stoppés](utilisation/cloud/mail-in-black/le-rapport-demails-stoppes.md)
+  * [Mail In Black](utilisation/cloud/mail-in-black.md)
+    * [Connexion à votre espace](utilisation/cloud/mail-in-black/connexion-a-votre-espace.md)
+    * [L’espace Mailinblack Protect](utilisation/cloud/mail-in-black/lespace-mailinblack-protect.md)
 
 ## Administration
 
-* [Logiciel](administration/logiciel/README.md)
-  * [Microsoft](administration/logiciel/microsoft/README.md)
-    * [Exchange](administration/logiciel/microsoft/exchange/README.md)
-      * [Création d'une boite mail partagée](administration/logiciel/microsoft/exchange/creation-dune-boite-mail-partagee.md)
+* [Logiciels](administration/logiciels/README.md)
+  * [Microsoft](administration/logiciels/microsoft/README.md)
+    * [Exchange](administration/logiciels/microsoft/exchange/README.md)
+      * [Création d'une boite mail partagée](administration/logiciels/microsoft/exchange/creation-dune-boite-mail-partagee.md)
+
+## Présentations
+
+* [MailInBlack](presentations/mailinblack/README.md)
+  * [Le principe de Mailinblack](presentations/mailinblack/le-principe-de-mailinblack/README.md)
+    * [La demande d'authentification](presentations/mailinblack/le-principe-de-mailinblack/la-demande-dauthentification/README.md)
+      * [Étape 1](presentations/mailinblack/le-principe-de-mailinblack/la-demande-dauthentification/etape-1.md)
+      * [Étape 2](presentations/mailinblack/le-principe-de-mailinblack/la-demande-dauthentification/etape-2.md)
+      * [Étape 3](presentations/mailinblack/le-principe-de-mailinblack/la-demande-dauthentification/etape-3.md)
+    * [Le rapport d’emails stoppés](presentations/mailinblack/le-principe-de-mailinblack/le-rapport-demails-stoppes.md)
